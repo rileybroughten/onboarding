@@ -7,6 +7,9 @@ https://www.figma.com/file/MyZHTrRvqqwtt170CmcA9V/Timeline-formative-research?no
 - include links to interview clips
 - highlight JTBD
 - highlight current vs future focus
+- how does this inform timeline vision
+  - what are pain points we are trying to address
+  - how does this inform guiding principles of timeline
 
 ### EM Audience
 
